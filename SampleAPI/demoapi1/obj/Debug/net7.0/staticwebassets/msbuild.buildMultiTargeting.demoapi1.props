@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/demoapi1.props" />
+</Project>
